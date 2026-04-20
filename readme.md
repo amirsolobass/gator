@@ -35,6 +35,7 @@ npm run db:migrate
 
 ### Help
 - `help` - Displays the entire command list
+- Ctrl+C - Quits the program
 
 ### User Management
 - `register <name>` - Create a new user
